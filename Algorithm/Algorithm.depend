@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1738484699 source:c:\users\previ\desktop\algorithm\algorithm\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<cctype>
+	<limits>
+	"sqlite3.h"
+
+1738090858 c:\users\previ\desktop\algorithm\algorithm\sqlite3.h
+	<stdarg.h>
+
