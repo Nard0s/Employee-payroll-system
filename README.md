@@ -1,2 +1,2 @@
-# Employee-payroll-system
-used to record and update employees data 
+# Employee Payroll System 
+Designed to efficiently record and update employee information.
